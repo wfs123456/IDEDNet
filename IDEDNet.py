@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
-# @Time    : 10/14/19 12:41 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
-# @File    : net.py
+# @Time    : 2020/12/10 10:46
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
+# @File    : IDEDNet.py
 # @Software: PyCharm
 import torch.nn.functional as F
 import torch.nn as nn

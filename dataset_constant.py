@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 1/2/20 9:07 PM
-# @Author  : zhongyuan
-# @Email   : zhongyuandt@gmail.com
+# @Time    : 2020/12/10 11:12
+# @Author  : Fusen Wang
+# @Email   : 201924131014@cqu.edu.cn
 # @File    : dataset_constant.py
 # @Software: PyCharm
 
